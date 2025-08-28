@@ -1,0 +1,2 @@
+- externalId: {{ data_pipeline_oee_client_id }}
+  name: Overall Equipment Effectiveness Use Case
